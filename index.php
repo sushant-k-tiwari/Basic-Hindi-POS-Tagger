@@ -66,7 +66,7 @@
         $sentence = $_POST['sentence'];
 
         // Load POS data from the file
-        $pos_data = load_pos_data('pos.txt');
+        $pos_data = load_pos_data('preprocessed_pos.txt');
 
         // Split the sentence into words
         $words = explode(" ", $sentence);
