@@ -17,7 +17,7 @@ This is a web-based Part-of-Speech (POS) tagger for Hindi text, hosted on [Rende
 
 ## How It Works
 
-1. Navigate to the application: [Hindi POS Tagger](https://hindi-pos-tagger-lnfs.onrender.com/).
+1. Navigate to the application: [Hindi POS Tagger](https://hindi-pos-tagger-lnfs.onrender.com/){:target="_blank"}.
 2. Enter Hindi text in the input field.
 3. Click the "Submit" button to tag the words with their respective POS tags.
 4. The result will display the tagged text, with each word annotated with its corresponding POS.
